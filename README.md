@@ -1,4 +1,6 @@
-# Node-RED
+# Node-RED-Turk
+
+İleride bu Türkçeleşmiş bölümleri içerecek.
 
 https://nodered.org
 
